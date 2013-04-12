@@ -7,7 +7,6 @@ backbone
 accounts-base
 accounts-ui
 accounts-password
-accounts-twitter
 router
 moment
 spiderable
